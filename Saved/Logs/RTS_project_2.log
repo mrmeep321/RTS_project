@@ -491,3 +491,25 @@ LogInit: Object subsystem initialized
 [2018.05.15-21.30.45:990][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.05.15-21.30.47:185][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.05.15-21.30.47:258][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.15-21.35.18:580][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-21.35.31:258][929]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.05.15-21.35.31:404][929]EditorErrors: Warning: No assets to check in!
+[2018.05.15-21.35.51:220][717]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.15-21.36.03:473][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-21.36.06:026][348]LogSavePackage: Save=2304.34ms
+[2018.05.15-21.36.06:026][348]LogSavePackage: Moving '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Saved/ThirdPersonExampleMap0E27BE144A76E925AE3B8D8D0909F4FA.tmp' to '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-21.36.06:034][348]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-21.36.06:652][348]LogSavePackage: Save=453.90ms
+[2018.05.15-21.36.06:652][348]LogSavePackage: Moving '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Saved/ThirdPersonExampleMap_BuiltData08B1C71B457B9734229BFE8893188609.tmp' to '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-21.36.06:654][348]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-21.36.14:256][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestGit/TestGit" FILE="../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/TestGit/TestGit.uasset" SILENT=true
+[2018.05.15-21.36.14:273][733]LogSavePackage: Save=13.56ms
+[2018.05.15-21.36.14:273][733]LogSavePackage: Moving '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Saved/TestGitC987F3C142D65F36A5B212BA41817FAE.tmp' to '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/TestGit/TestGit.uasset'
+[2018.05.15-21.36.14:278][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/TestGit/TestGit.uasset
+[2018.05.15-21.36.17:534][892]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.05.15-21.36.24:652][892]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.15-21.36.28:027][892]LogSourceControl: commit successful: [master f00d946] TestGit
+[2018.05.15-21.36.28:160][892]SourceControl: [master f00d946] TestGit
+[2018.05.15-21.36.28:161][892]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.05.15-21.36.28:161][892]SourceControl:  create mode 100644 Content/TestGit/TestGit.uasset
+[2018.05.15-21.36.28:169][892]SourceControl: Commited [master f00d946] TestGit.
