@@ -455,3 +455,18 @@ LogInit: Object subsystem initialized
 [2018.05.15-21.16.48:555][719]SourceControl: [master 38bf54f] yee
 [2018.05.15-21.16.48:555][719]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2018.05.15-21.16.48:564][719]SourceControl: Commited [master 38bf54f] yee.
+[2018.05.15-21.19.50:846][535]LogSavePackage: Save=2275.52ms
+[2018.05.15-21.19.50:846][535]LogSavePackage: Moving '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Saved/ThirdPersonExampleMapD7147D9D418C13E00B30EEBFCC9FCAE4.tmp' to '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-21.19.50:854][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-21.19.51:464][535]LogSavePackage: Save=449.37ms
+[2018.05.15-21.19.51:464][535]LogSavePackage: Moving '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Saved/ThirdPersonExampleMap_BuiltDataEDBEC2E84E9C0EDA60FBCDBEC06A5EAC.tmp' to '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-21.19.51:468][535]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-21.20.13:773][ 15]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.15-21.20.21:302][275]LogSavePackage: Save=2276.01ms
+[2018.05.15-21.20.21:302][275]LogSavePackage: Moving '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Saved/ThirdPersonExampleMapB0650F8B40BA60CE379088BA6F8C1BBC.tmp' to '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.15-21.20.21:309][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.15-21.20.21:872][275]LogSavePackage: Save=435.30ms
+[2018.05.15-21.20.21:872][275]LogSavePackage: Moving '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Saved/ThirdPersonExampleMap_BuiltDataDE4D63D14645C999CBC7B9BB5551B7BD.tmp' to '../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.15-21.20.21:874][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/mrmee/Documents/Unreal Projects/RTS_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.15-21.20.24:485][420]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.05.15-21.28.33:710][420]LogSlate: Window 'Submit Files' being destroyed
